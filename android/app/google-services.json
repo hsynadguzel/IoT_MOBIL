@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829464138418",
+    "firebase_url": "https://iotm-3ad3e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "iotm-3ad3e",
+    "storage_bucket": "iotm-3ad3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829464138418:android:14a5904735e7b48bc42fab",
+        "android_client_info": {
+          "package_name": "com.example.iot_mobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829464138418-g5i93qcuqq0sgke3lgfr7b2rej46q2cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYO-rkn_BlfQi-rj4KW26GBXThwxnTDic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829464138418-g5i93qcuqq0sgke3lgfr7b2rej46q2cg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829464138418-0q1lgi28gbupehl99lo1vbh6otuhbc8r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iotMobil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
